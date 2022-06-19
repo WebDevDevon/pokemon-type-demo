@@ -1,0 +1,57 @@
+* {
+    Box-sizing: Border-box
+ }
+
+.buttons {
+    background-color: #27242a;
+    color: aliceblue;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+body {
+    background-color: #443e49;
+    color: aliceblue;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.border {
+    width: 600px;
+}
+
+.pics {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+ul.no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+    margin: 0; 
+    width: 50%;
+  }
+
+.search {
+    border-radius: 5px;
+}
+
+.header {
+    font-size: 50px;
+}
+
+.cen {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+
+
